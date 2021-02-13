@@ -3,7 +3,7 @@ About r-loose.rock
 
 Home: https://www.github.com/averissimo/loose.rock
 
-Package license: GPL (>= 3)
+Package license: GPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-loose.rock-feedstock/blob/master/LICENSE.txt)
 
