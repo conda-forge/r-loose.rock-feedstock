@@ -5,11 +5,9 @@ Home: https://www.github.com/averissimo/loose.rock
 
 Package license: GPL (>= 3)
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-loose.rock-feedstock/blob/master/LICENSE.txt)
 
 Summary: Collection of functions to improve work-flow in survival analysis and data science. The package features include: the generation of balanced datasets, live retrieval of  protein coding genes from two public databases, generation of random  matrix based on covariance matrix, cache function to store function results. This work was supported by two grants from the Portuguese Foundation for Science and technology, and the EU Commission under SOUND project.
-
-
 
 Current build status
 ====================
